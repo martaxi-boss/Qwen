@@ -1,0 +1,3 @@
+interface:
+  display_name: "Qwen Unified"
+  short_description: "Coordinate Qwen models, coding and agent workflows"
